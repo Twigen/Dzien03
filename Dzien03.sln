@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Klasy", "Klasy\Klasy.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dziedziczenie", "Dziedziczenie\Dziedziczenie.csproj", "{034C98E3-F40A-41B5-8B38-5799E8FD58C7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniShop", "MiniShop\MiniShop.csproj", "{93270D6A-2547-49DF-8E32-D9814856CC95}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{034C98E3-F40A-41B5-8B38-5799E8FD58C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{034C98E3-F40A-41B5-8B38-5799E8FD58C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{034C98E3-F40A-41B5-8B38-5799E8FD58C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93270D6A-2547-49DF-8E32-D9814856CC95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93270D6A-2547-49DF-8E32-D9814856CC95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93270D6A-2547-49DF-8E32-D9814856CC95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93270D6A-2547-49DF-8E32-D9814856CC95}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
