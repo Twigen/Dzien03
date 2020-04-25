@@ -9,9 +9,10 @@ namespace Dziedziczenie.Pojazdy
     class SamochodElektryczny:Samochod
     {
         private double pojemnoscBaterii;
+        private double zywotnoscBaterii;
         void Zatankuj()
         {
-            Console.WriteLine("podlacz do pradu");
+            Console.WriteLine();
         }
 
     }
